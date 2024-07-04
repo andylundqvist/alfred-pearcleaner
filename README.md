@@ -8,7 +8,7 @@ Tested on macOS 14.5, Alfred 5.5 and Pearcleaner 3.7.8.
 
 Alfred (with Powerpack): https://www.alfredapp.com
 
-Pearcleaner (free): itsalin.com/appInfo/?id=pearcleaner
+Pearcleaner (free): https://itsalin.com/appInfo/?id=pearcleaner
 
 
 **Usage:**
